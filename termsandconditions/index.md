@@ -1,8 +1,3 @@
----
-layout: default
-title: Terms and Conditions
----
-
 # Terms and Conditions
 
 Last updated: August 26, 2026
