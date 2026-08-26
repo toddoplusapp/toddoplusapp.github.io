@@ -1,3 +1,8 @@
+---
+layout: default
+title: Support
+---
+
 # Terms and Conditions
 
 Last updated: August 26, 2026
