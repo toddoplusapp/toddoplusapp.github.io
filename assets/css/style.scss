@@ -3,13 +3,25 @@
 
 @import "{{ site.theme }}";
 
-/* Hide sidebar header */
-header {
+/* Hide header sidebar everywhere */
+header, 
+body > header,
+.wrapper header {
   display: none !important;
 }
 
-/* Expand main content area */
-section {
+/* Force main content container to take full width */
+section, 
+.wrapper section {
   width: 100% !important;
+  max-width: 100% !important;
   float: none !important;
+  margin: 0 auto !important;
+}
+
+/* Remove side padding alignment issues */
+.wrapper {
+  width: 90% !important;
+  max-width: 800px !important;
+  margin: 0 auto !important;
 }
