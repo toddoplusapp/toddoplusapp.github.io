@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide sidebar header */
+header {
+  display: none !important;
+}
+
+/* Expand main content area */
+section {
+  width: 100% !important;
+  float: none !important;
+}
