@@ -1,7 +1,7 @@
 # Toddo+ Terms and Conditions
 Last updated: August 26, 2026
 
-These Terms and Conditions (“Terms”) govern your use of the Toddo+ mobile application (“App”), provided by [Your legal name] (“we,” “us,” or “our”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms and Conditions (“Terms”) govern your use of the Toddo+ mobile application (“App”), provided by Luiz Felipe de Jesus Falcao (“we,” “us,” or “our”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 1. The App
 Toddo+ is a personal list and reminder app. You can create lists, check items off, set reminders, and optionally repeat lists.
@@ -54,10 +54,8 @@ You must be able to enter a binding contract in your country. If you are under t
 Purchases, refunds, and store rules are handled by Apple or Google under their terms, not by a Toddo+ account (there isn’t one).
 
 15. Governing law
-These Terms are governed by the laws of [your country/state], without regard to conflict-of-law rules, except where applicable consumer law says otherwise.
+These Terms are governed by the laws of Canada / British Columbia, without regard to conflict-of-law rules, except where applicable consumer law says otherwise.
 
 16. Contact
-Questions about these Terms: [your email]
-Toddo+ / [Your legal name]
-
-In App Store Connect, use Toddo+ as the name and in promotional text too (Todo+ in the earlier listing copy should become Toddo+). Fill in legal name, email, and country before you publish.
+Questions about these Terms: toddoplusapp@gmail.com
+Toddo+ / Luiz Felipe de Jesus Falcao
