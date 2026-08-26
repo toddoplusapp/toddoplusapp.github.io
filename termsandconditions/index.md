@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Support
+title: Terms and Conditions
 ---
 
 # Terms and Conditions
